@@ -1,3 +1,5 @@
+Open this folder as a vault with [Obsidian](https://obsidian.md/)
+
 Two plugins are used:
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - [Jira-Issue](https://github.com/marc0l92/obsidian-jira-issue)
